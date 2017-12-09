@@ -1,2 +1,2 @@
-# okp
-Open Knowledge Practices
+# Open Knowledge Practices (OKP)
+Open knowledge practices is a repository for collaborative work that enables people, when they are engaged in acquiring, generating and sharing knowledge as students, teachers, researchers, scholars, and librarians, to develop and demonstrate themselves (digital identities), their understanding (literacies), their skills, and their connections to other people (communities) throughout their lives for their own benefit, for the common good, and to participate in a just and thriving economy.
